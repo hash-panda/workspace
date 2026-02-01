@@ -2,6 +2,9 @@
 config/glm.json
 config/example-config.json
 
+# 嵌套的 git 仓库
+article-illustrator/
+
 # 日志
 discord/logs/
 *.log
